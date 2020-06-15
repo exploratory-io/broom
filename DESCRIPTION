@@ -1,7 +1,7 @@
 Type: Package
 Package: broom
 Title: Convert Statistical Analysis Objects into Tidy Tibbles
-Version: 0.5.2.1
+Version: 0.5.4.1
 Authors@R: 
     c(person(given = "David",
              family = "Robinson",
@@ -170,7 +170,6 @@ Suggests:
     gmm,
     Hmisc,
     irlba,
-    joineRML,
     Kendall,
     knitr,
     ks,
@@ -215,6 +214,7 @@ Suggests:
     zoo
 VignetteBuilder: 
     knitr
+Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2

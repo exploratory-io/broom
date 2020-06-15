@@ -1,6 +1,6 @@
 # release summary
 
-broom 0.5.2 is a minor release featuring changes to clean up CRAN check errors
+broom 0.5.4 is a minor release that removes support for the joineRML, which is no longer on CRAN
 
 ## Test environments
 
